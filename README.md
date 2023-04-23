@@ -1,17 +1,18 @@
 **Intrusion-Detection-System-IDS-in-Internet-of-Vehicles-IOV---Tree-Algorithms-DT-ET-RF-XGBoost**
 
-Intrusion Detection System **[IDS]** in Internet of Vehicles **[IOV]** --- Tree Based ALGORITHMS
-**[AV]** Autonomous Vehicle + **[IOV]** *Internet of vehicle = ***[ITS]** Intelligent Transport Systems
+1. Intrusion Detection System **[IDS]** in Internet of Vehicles **[IOV]** --- Tree Based ALGORITHMS
 
-**[AV]** = **[V2X]** Vehicle to Public **[V2P]**, Vehicle **[V2V]**, Infra **[V2I]**
+2. **[AV]** Autonomous Vehicle + **[IOV]** *Internet of vehicle = ***[ITS]** Intelligent Transport Systems
 
-**[IDS]** <-- **[AV]** + **[IOV]** <-- External /Internal Communication Threat
+3. **[AV]** = **[V2X]** Vehicle to Public **[V2P]**, Vehicle **[V2V]**, Infra **[V2I]**
 
-**Dataset:** **CICID 2017** - Standard Attack Scenario___________________ [28,30,743 x 79]
+4. **[IDS]** <-- **[AV]** + **[IOV]** <-- External /Internal Communication Threat
 
-**Pre Processing :** Normalization ,Encoder_____________________________[56,661 x 79]
+ **Dataset:** **CICID 2017** - Standard Attack Scenario___________________ [28,30,743 x 79]
 
-**Oversampling :** **SMOTE** <-- Handle Class Imbalance Data __{4 :1500}
+ **Pre Processing :** Normalization ,Encoder_____________________________[56,661 x 79]
+
+ **Oversampling :** **SMOTE** <-- Handle Class Imbalance Data __{4 :1500}
 
 **Models ⁉**
 
