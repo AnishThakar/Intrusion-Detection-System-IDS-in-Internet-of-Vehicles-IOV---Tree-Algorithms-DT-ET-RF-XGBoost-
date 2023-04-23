@@ -17,14 +17,9 @@
 **Models ⁉**
 
                **Accuracy**     Acc(with Imp Feature)
-
-Decision Tree__:_99.67 %_____________99.68 %
-
+Decision Tree  : 99.67 %             99.68 %
 Random Forest  : 99.62 %             99.74 %
-
 Extra Trees    : 99.53 %             99.64 % 
-
 XGBoost        : 99.55 %             99.53 %
 ________________________________________________
-
 Stack          : 96.63 %             99.63 %
